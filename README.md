@@ -19,6 +19,6 @@
  <a href="https://discord.com/channels/@Mercuriun_#4726" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/kayllonrogger" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AccFerreira/AccFerreira/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/KayllonRogger/KayllonRogger/blob/output/github-contribution-grid-snake.svg)
  
 </div>
